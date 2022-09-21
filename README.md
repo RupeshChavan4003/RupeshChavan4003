@@ -1,6 +1,6 @@
 ![MasterHead](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Rupesh Chavan</h1>
-<h3 align="center">A passionate frontend developer from Pune,India Working mainly on React.js. Quick learner and collaborative developer ready to learn new frameworks</h3>
+<h3 align="center">I am a passionate frontend developer from Pune,India Working mainly on React.js. I am Quick learner and collaborative developer who believes in team work and writing elegant and efficient codes. </h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/> -->
 
 
